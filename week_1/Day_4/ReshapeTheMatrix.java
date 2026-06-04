@@ -13,8 +13,7 @@
 
 // Complexity:
 // TC:O(m*n)
-// SC:O(m*n)
-// ASC:O(1)
+// ASC:O(m*n)
 
 
 
